@@ -1,0 +1,84 @@
+.container{
+    font-family: 'Solway', serif;
+}
+.top{
+    margin-top: 55px;
+    
+}
+.ajish{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+    
+}
+.ajish img{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+.ajish h1{
+    margin-bottom: 10px;
+}
+.ajish p{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.parallax{
+    height: 300px;
+    text-align:center;
+    padding: 160px;
+    color: rgb(245, 78, 78);
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+.parallax p{
+    margin-bottom: -15px;
+}
+.content h4{
+    margin-top: 50px;
+    color: rgb(114, 82, 230);
+}
+.content{
+    padding: 30px;
+}
+footer{
+    height: 70px;
+    background-color: rgb(166, 179, 179);
+    padding: 20px 50px ;
+     
+}
+footer a{
+    color: white;
+}
+.right1{
+    float:right;
+    margin-left: 20px;
+    
+    
+}
+.right{
+    float:right;
+    margin-left: 20px;
+    color: rgb(104, 117, 230);
+}
+@media(max-width:768px){
+    .parallax{
+        padding-top: 60px;
+    }
+    .parallax p{
+        margin-top: 25%;
+        font-size: 18px;
+        color: rgb(251, 255, 0);
+    }
+}
+@media(max-width:768px){
+    footer p {
+        font-size: 15px;
+        margin-top: -12px;
+        
+    }
+}
+    
+
+
+
